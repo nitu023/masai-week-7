@@ -1,0 +1,226 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.bhivelogo{
+  margin-top: -1150px;
+}
+.navbar{
+  margin-top: -400px;
+  float:right;
+  
+ 
+}
+.img{
+  width:30px;
+  height:30px;
+}
+
+.search{
+  width:30px;
+  height:30px;
+}
+
+.behive-text{
+  font-size:80px;
+  margin-top: -430px;
+  margin-left: 100px;
+  color: yellow;
+
+}
+
+.behive-text1{
+  font-size:80px;
+  margin-top: -430px;
+  margin-left:10px;
+  color: white;
+
+}
+
+.behive-text2{
+  font-size:25px;
+  margin-top: -20px;
+  margin-left: 80px;
+  color: white;
+
+}
+
+.dot{
+  color:yellowgreen;
+  font-size: 100px;
+  border-radius: 50%;
+  margin-top: -85px;
+}
+
+.flex{
+  display: flex;
+  margin-left: 30px;
+  margin-right: 40px;
+}
+
+.btn1{
+  width: 400px;
+  border: 2px solid yellow;
+  color: yellow;
+  margin-left: 200px;
+  margin-top: 30px;
+  height: 50px;
+  font-size: 30px;
+  background: transparent;
+
+}
+.btn2{
+  width: 600px;
+  margin-top: 30px;
+  border: 2px solid yellow;
+  color: yellow;
+  margin-left: 30px;
+  height: 50px;
+  font-size: 30px;
+  background: transparent;
+
+}
+
+
+  .card-text1{
+    font-size: 60px;
+    color: #282c34;
+  }
+.card-group{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+.card-text2{
+  font-size: 20px;
+  color: #282c34;
+}
+
+.card-body1{
+  border: 2px solid orange;
+  box-shadow: 1px;
+  
+}
+
+.btn3{
+  background-color: orange;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.thumb{
+  border-radius: 50%;
+  border: 2px solid yellowgreen;
+  width: 30px;
+  margin-left: 20px;
+ 
+  
+}
+
+.location{
+  border-radius: 50%;
+  border: 2px solid yellowgreen;
+  width: 30px;
+  margin-left: 20px;
+
+}
+
+.newcenter{
+  font-size: 70px;
+  margin-left: 300px;
+  margin-top: 50px;
+  float: left;
+}
+
+.img4{
+  float: left;
+}
+
+.img5{
+ 
+  float: left;
+}
+
+.newcenter1{
+  font-size: 20px;
+ 
+}
+
+.Review{
+  font-size: 70px;
+  margin-left: 200px;
+  margin-top: 50px;
+  float: left;
+  color: blue;
+ margin-right: 30px;
+  background-color:aliceblue;
+}
+
+.img6{
+  float: left;
+ margin-top: 50px;
+  width: 700px;
+  height: 300px;
+  border-radius: 30px;
+  border: 2px solid lemonchiffon;
+}
+
+.class2{
+  width: 100%;
+  background-color:#282c34;
+  height: 800px;
+  margin-top: 800px;
+  color: aqua;
+  
+}
+.list{
+  float: left;
+  font-size: 15px;
+  color: white;
+  margin-left: 50px;
+  margin-right: 30px;
+  margin-top: 50px;
+  cursor: all-scroll;
+ 
+}
+.list2{
+  margin-top: 30px;
+  border-bottom: 1px solid black;
+}
+.img7{
+  float: left;
+  border: 2px solid palegreen;
+  margin-left: 30px;
+  height: 170px;
+}
+.img8{
+  margin-top: -70px;
+   float: left;
+ }
+
+ .img9{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+ }
